@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NostalgiaChatConsole", "NostalgiaChatConsole\NostalgiaChatConsole.csproj", "{6CB1DCC5-F1EF-4E10-95C7-D477F19457EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NostalgiaChat", "NostalgiaChat\NostalgiaChat.csproj", "{CF8E9F70-FFEB-4AC2-8FA0-0ABE6CD043C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB1DCC5-F1EF-4E10-95C7-D477F19457EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB1DCC5-F1EF-4E10-95C7-D477F19457EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB1DCC5-F1EF-4E10-95C7-D477F19457EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB1DCC5-F1EF-4E10-95C7-D477F19457EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8E9F70-FFEB-4AC2-8FA0-0ABE6CD043C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8E9F70-FFEB-4AC2-8FA0-0ABE6CD043C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8E9F70-FFEB-4AC2-8FA0-0ABE6CD043C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8E9F70-FFEB-4AC2-8FA0-0ABE6CD043C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
